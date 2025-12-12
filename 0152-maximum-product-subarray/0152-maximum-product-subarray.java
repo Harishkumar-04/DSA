@@ -17,7 +17,7 @@ class Solution {
 
 */
 
-/*Optimal
+// Optimal T=O(n) S=O(1)
  
 class Solution {
     public int maxProduct(int[] nums) {
@@ -44,7 +44,8 @@ class Solution {
         return result;
     }
 }
-*/
+
+/*
 class Solution {
     public int maxProduct(int[] nums) {
         int n = nums.length;
@@ -69,3 +70,4 @@ class Solution {
     }
 }
         
+*/
