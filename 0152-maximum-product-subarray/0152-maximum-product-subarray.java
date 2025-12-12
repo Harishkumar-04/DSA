@@ -17,7 +17,7 @@ class Solution {
 
 */
 
-//Optimal
+/*Optimal
  
 class Solution {
     public int maxProduct(int[] nums) {
@@ -38,6 +38,30 @@ class Solution {
 
             max = Math.max(x,x*max);
             min = Math.min(x,x*min);
+
+            result = Math.max(result,max);
+        }
+        return result;
+    }
+}
+*/
+class Solution {
+    public int maxProduct(int[] nums) {
+        int n = nums.length;
+
+        int max = nums[0];
+        int min = nums[0];
+        int result = nums[0];
+
+        for(int i=1; i<n; i++){
+            int x = nums[i];
+
+
+            int tmax = Math.max(x,Math.max(x*max,x*min));
+            int tmin = Math.min(x,Math.min(x*max,x*min));
+
+            max = tmax;
+            min = tmin;
 
             result = Math.max(result,max);
         }
