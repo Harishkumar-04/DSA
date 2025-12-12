@@ -2,7 +2,7 @@ class Solution {
     public int maxProduct(int[] nums) {
         int n = nums.length;
     
-        int maxPrd=nums[0];
+        int maxPrd=Integer.MIN_VALUE;
         for(int i=0; i<n; i++){
             int prd=1;
             for(int j=i; j<n; j++){
