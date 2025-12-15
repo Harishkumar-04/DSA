@@ -61,8 +61,8 @@ class Solution {
             if(i>0 && nums[i]==nums[i-1])
             continue;
 
-            if(nums[i]>0)
-            break;
+            //if(nums[i]>0)
+            //break;
 
             int left=i+1;
             int right=nums.length-1;
