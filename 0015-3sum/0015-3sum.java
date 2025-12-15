@@ -1,4 +1,5 @@
 /* Brute Force (Time Limit Exceeded ) T=O(n^3) S=O(n^2)
+
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
 
@@ -23,17 +24,17 @@ class Solution {
 */
 
 
-/*Better Solution 
+//Better Solution T=O(n²) S=O(n²)
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
 
         Set<List<Integer>> result = new HashSet<>();
         int n = nums.length;
-        Arrays.sort(nums);
+        //Arrays.sort(nums);
 
         for(int i=0; i<n; i++){
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            //if (i > 0 && nums[i] == nums[i - 1]) continue;
             Set<Integer> seen = new HashSet<>();
             for(int j=i+1; j<n; j++){
                 int third = -(nums[i]+nums[j]);
@@ -48,9 +49,9 @@ class Solution {
         return new ArrayList<>(result);
     }
 }
-*/
 
-//Optimal solution
+
+/*Optimal solution T=O(n²) S=O(1)
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
@@ -61,8 +62,8 @@ class Solution {
             if(i>0 && nums[i]==nums[i-1])
             continue;
 
-            //if(nums[i]>0)
-            //break;
+            if(nums[i]>0)
+            break;
 
             int left=i+1;
             int right=nums.length-1;
@@ -87,4 +88,5 @@ class Solution {
     }
 }
 
+*/
      
