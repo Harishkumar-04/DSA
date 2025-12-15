@@ -29,7 +29,7 @@ class Solution {
 
         Set<List<Integer>> result = new HashSet<>();
         int n = nums.length;
-        //Arrays.sort(nums);
+        Arrays.sort(nums);
 
         for(int i=0; i<n; i++){
             if (i > 0 && nums[i] == nums[i - 1]) continue;
