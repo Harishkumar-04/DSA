@@ -29,10 +29,10 @@ class Solution {
 
         Set<List<Integer>> result = new HashSet<>();
         int n = nums.length;
-        Arrays.sort(nums);
+        //Arrays.sort(nums);
 
         for(int i=0; i<n; i++){
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            //if (i > 0 && nums[i] == nums[i - 1]) continue;
             Set<Integer> seen = new HashSet<>();
             for(int j=i+1; j<n; j++){
                 int third = -(nums[i]+nums[j]);
