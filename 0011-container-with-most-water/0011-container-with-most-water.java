@@ -1,4 +1,4 @@
-/*Brute Force
+/*Brute Force T=O(n²) S=O(1)
 
 class Solution {
     public int maxArea(int[] height) {
@@ -17,7 +17,7 @@ class Solution {
 }
 */
 
-//Optimal
+//Optimal T=O(n) S=O(1)
 
 class Solution {
     public int maxArea(int[] height) {
