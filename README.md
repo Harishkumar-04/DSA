@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harishkumar-04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Harishkumar-04/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Harishkumar-04/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-04/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harishkumar-04/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Harishkumar-04/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
