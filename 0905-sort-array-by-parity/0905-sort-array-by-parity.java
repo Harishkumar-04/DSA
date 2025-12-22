@@ -1,4 +1,43 @@
+/*Brute Force T=O(n) S=O(n)
 
+class Solution {
+    public int[] sortArrayByParity(int[] nums) {  
+        int[] result = new int[nums.length];  
+        int i=0;
+        for(int num:nums){
+            if(num%2==0){
+            result[i++]=num;
+            }
+        }
+
+        for(int num:nums){
+            if(num%2!=0){
+            result[i++]=num;
+            }
+        }
+        return result;
+    }
+}
+
+// Better T=O(n) S=O(n)
+
+class Solution {
+    public int[] sortArrayByParity(int[] nums) {  
+        int[] result = new int[nums.length];  
+        int left=0, right=nums.length-1;
+
+        for(int num:nums){
+            if(num%2==0)
+            result[left++]=num;
+            else
+            result[right--]=num;
+        }
+        return result;
+    }
+}
+*/
+
+// Optimal T=O(n) S=O(1)
 
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
