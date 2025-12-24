@@ -22,7 +22,6 @@ class Solution {
         return true;
     }
 }
-*/
 // Better
 class Solution {
     public boolean isAnagram(String s, String t) {
@@ -40,7 +39,7 @@ class Solution {
     }
 }
 
-/*
+*/
 class Solution {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length())
@@ -59,4 +58,3 @@ class Solution {
         return true;
     }
 }
-*/
