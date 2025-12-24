@@ -1,4 +1,4 @@
-/* Brute Force TLE
+/* Brute Force T= O(n²) S= O(1) (TLE)
 class Solution {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length())
@@ -22,7 +22,9 @@ class Solution {
         return true;
     }
 }
-// Better
+
+// Better T= O(n log n) S= O(n)
+
 class Solution {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length())
@@ -38,8 +40,10 @@ class Solution {
         
     }
 }
-
 */
+
+// Optimal T= O(n) S= O(1)
+
 class Solution {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length())
