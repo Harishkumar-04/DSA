@@ -4,7 +4,7 @@ class Solution {
 
         for(int i=0;i<s.length();i++){
             boolean[] seen=new boolean[256];
-            //int count=0;
+            int count=0;
 
             for(int j=i;j<s.length();j++){
                 char c=s.charAt(j);
@@ -13,10 +13,9 @@ class Solution {
                 break;
 
                 seen[c]=true;    
-                //count++; 
-                max=Math.max(max,j-i+1);
+                count++;       //max=Math.max(max,j-1+1);
             }
-            //max=Math.max(max,count);
+            max=Math.max(max,count);
         }
         return max;
     }
