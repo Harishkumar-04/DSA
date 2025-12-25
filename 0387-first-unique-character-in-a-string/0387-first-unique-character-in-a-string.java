@@ -1,4 +1,4 @@
-/* Brute Force TLE
+/* Brute Force T=O(n²) S=O(1) TLE
 
 class Solution {
     public int firstUniqChar(String s) {
@@ -17,6 +17,9 @@ class Solution {
         return -1;
     }
 }
+*/
+
+// Optimal T=O(n) S=O(1)
 
 class Solution {
     public int firstUniqChar(String s) {
@@ -35,7 +38,7 @@ class Solution {
     }
 }
 
-*/
+/* Works for any ASCII character(lc,uc,nums,symbs)
 
 class Solution {
     public int firstUniqChar(String s) {
@@ -52,8 +55,7 @@ class Solution {
                 return i;
             }
         }
-        return -1;
-         
-        
+        return -1; 
     }
 }
+*/
