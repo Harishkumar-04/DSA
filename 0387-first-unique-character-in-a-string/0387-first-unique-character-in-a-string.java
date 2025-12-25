@@ -17,7 +17,6 @@ class Solution {
         return -1;
     }
 }
-*/
 
 class Solution {
     public int firstUniqChar(String s) {
@@ -33,5 +32,28 @@ class Solution {
             return i;
         }
         return -1;
+    }
+}
+
+*/
+
+class Solution {
+    public int firstUniqChar(String s) {
+
+        int[] freq = new int[256];
+        char[] chars = s.toCharArray();
+
+        for (char c : chars) {
+            freq[c]++;
+        }
+
+        for (int i = 0; i < chars.length; i++) {
+            if (freq[chars[i]] == 1) {
+                return i;
+            }
+        }
+        return -1;
+         
+        
     }
 }
