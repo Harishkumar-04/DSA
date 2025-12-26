@@ -1,4 +1,26 @@
-/*class Solution {
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int[] nums3 = new int[n + m];
+        int i=0;
+
+        for(int j=0;j<m;j++){
+            nums3[i++]=nums1[j];
+        }
+
+        for(int j=0;j<n;j++){
+            nums3[i++]=nums2[j];
+        }
+
+        Arrays.sort(nums3);
+
+        for(int j=0;j<m+n;j++){
+            nums1[j]=nums3[j];
+        }
+    }
+}
+
+/*
+class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int[] nums3 = new int[n + m];
         int left = 0, right = 0, index = 0;
@@ -27,14 +49,11 @@
 
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i=m-1;
-        int j=n-1;
-        int k=m+n-1;
+        int i=m-1, j=n-1, k=m+n-1;
 
         while(i>=0 && j>=0){
             if(nums1[i]>nums2[j])
-            nums1[k--]=nums1[i--];
-            
+            nums1[k--]=nums1[i--];  
             else
             nums1[k--]=nums2[j--];
         }
@@ -44,12 +63,9 @@ class Solution {
         }
     }
 }
-*/
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i=m-1;
-        int j=n-1;
-        int k=m+n-1;
+        int i=m-1, j=n-1, k=m+n-1;
 
         while(j>=0){
             if(i>=0 && nums1[i]>nums2[j])
@@ -59,3 +75,4 @@ class Solution {
         }
     }
 }
+*/
