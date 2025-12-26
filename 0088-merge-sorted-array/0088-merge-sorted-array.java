@@ -1,25 +1,26 @@
+/* Brute Force T=O(n log n) S=O(n)
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int[] nums3 = new int[n + m];
-        int i=0;
+        int i = 0;
 
-        for(int j=0;j<m;j++){
-            nums3[i++]=nums1[j];
+        for (int j = 0; j < m; j++) {
+            nums3[i++] = nums1[j];
         }
 
-        for(int j=0;j<n;j++){
-            nums3[i++]=nums2[j];
+        for (int j = 0; j < n; j++) {
+            nums3[i++] = nums2[j];
         }
 
         Arrays.sort(nums3);
 
-        for(int j=0;j<m+n;j++){
-            nums1[j]=nums3[j];
+        for (int j = 0; j < m + n; j++) {
+            nums1[j] = nums3[j];
         }
     }
 }
 
-/*
+// Better T=O(n) S=O(n)
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int[] nums3 = new int[n + m];
@@ -47,6 +48,8 @@ class Solution {
     }
 }
 
+// Optimal T=O(n) S=O(1)
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i=m-1, j=n-1, k=m+n-1;
@@ -63,6 +66,8 @@ class Solution {
         }
     }
 }
+
+*/
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i=m-1, j=n-1, k=m+n-1;
@@ -75,4 +80,3 @@ class Solution {
         }
     }
 }
-*/
