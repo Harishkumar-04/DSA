@@ -26,7 +26,7 @@ class Solution {
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
 
-            if (map.get(num) > n / 2)
+            if (map.get(num) == n)
                 return num;
         }
         return -1;
