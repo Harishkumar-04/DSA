@@ -1,6 +1,6 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String,List<String>> map = new HashMap<>();
+        Map<String,List<String>> map=new HashMap<>();
 
         for(String word:strs){
             char[] ch=word.toCharArray();
@@ -17,3 +17,4 @@ class Solution {
         return new ArrayList<>(map.values());
     }
 }
+       
