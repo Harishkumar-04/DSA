@@ -12,11 +12,16 @@ class Solution {
 
                 count = 0;
                 sum = 0;
-                for (int j = 1; j <= num; j++) {
+                for (int j = 1; j*j<=num; j++) {
                     if (num % j == 0) {
                         count++;
                         if (count > 4) break;
                         sum += j;
+                        if(j*j!=num)
+                        {
+                            count++;
+                            sum+=num/j;
+                        }
                     }
                 }
     
