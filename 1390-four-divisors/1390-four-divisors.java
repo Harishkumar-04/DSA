@@ -6,9 +6,9 @@ class Solution {
         int sum = 0;
         for (int i = 0; i < nums.length; i++) {
             int num = nums[i];
-            if (map.containsKey(num)) {
-                ans += map.get(num);
-            } else {
+            // if (map.containsKey(num)) {
+            //     ans += map.get(num);
+            // } else {
 
                 count = 0;
                 sum = 0;
@@ -27,10 +27,10 @@ class Solution {
     
                 if (count == 4) {
                     ans += sum;
-                    map.put(num, sum);
+                    //map.put(num, sum);
                 }
 
-            }
+            // }
         
         }
         return ans;
