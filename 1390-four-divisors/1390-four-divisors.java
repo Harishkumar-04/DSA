@@ -1,38 +1,35 @@
+// T=O(n × √M) S=O(1)
+
 class Solution {
     public int sumFourDivisors(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        int count = 0;
         int ans = 0;
-        int sum = 0;
-        for (int i = 0; i < nums.length; i++) {
-            int num = nums[i];
-            // if (map.containsKey(num)) {
-            //     ans += map.get(num);
-            // } else {
 
-                count = 0;
-                sum = 0;
-                for (int j = 1; j*j<=num; j++) {
-                    if (num % j == 0) {
+        for (int num : nums) {
+            int count = 0;
+            int sum = 0;
+
+            for (int d = 1; d * d <= num; d++) {
+                if (num % d == 0) {
+                    int d1 = d;
+                    int d2 = num / d;
+                    count++;
+                    sum += d1;
+
+                    if (d1 != d2) {
                         count++;
-                        if (count > 4) break;
-                        sum += j;
-                        if(j*j!=num)
-                        {
-                            count++;
-                            sum+=num/j;
-                        }
+                        sum += d2;
                     }
-                }
-    
-                if (count == 4) {
-                    ans += sum;
-                    //map.put(num, sum);
-                }
 
-            // }
-        
+                    if (count > 4)
+                        break;
+                }
+            }
+
+            if (count == 4) {
+                ans += sum;
+            }
         }
+
         return ans;
     }
 }
