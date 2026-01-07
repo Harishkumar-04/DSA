@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harishkumar-04/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1089-duplicate-zeros](https://github.com/Harishkumar-04/DSA/tree/master/1089-duplicate-zeros) |
 | [1390-four-divisors](https://github.com/Harishkumar-04/DSA/tree/master/1390-four-divisors) |
 | [1408-string-matching-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1408-string-matching-in-an-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harishkumar-04/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harishkumar-04/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harishkumar-04/DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
+| [1089-duplicate-zeros](https://github.com/Harishkumar-04/DSA/tree/master/1089-duplicate-zeros) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
 |  |
