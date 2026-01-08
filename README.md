@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harishkumar-04/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/Harishkumar-04/DSA/tree/master/1089-duplicate-zeros) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harishkumar-04/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harishkumar-04/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harishkumar-04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Harishkumar-04/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
