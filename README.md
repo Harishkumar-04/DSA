@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Harishkumar-04/DSA/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harishkumar-04/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/Harishkumar-04/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [1390-four-divisors](https://github.com/Harishkumar-04/DSA/tree/master/1390-four-divisors) |
+| [1903-largest-odd-number-in-string](https://github.com/Harishkumar-04/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Harishkumar-04/DSA/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/Harishkumar-04/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harishkumar-04/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harishkumar-04/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
