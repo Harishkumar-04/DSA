@@ -1,3 +1,4 @@
+// T=O(n) S=O(1)
 class Solution {
     public String reverseWords(String s) {
         int i=s.length()-1;
@@ -12,32 +13,14 @@ class Solution {
 
             int start=i+1;
 
-            sb.append(s.substring(start, end+1)).append(' ');
+            if (sb.length() > 0) sb.append(' ');
+            sb.append(s, start, end+1);
         }
-        return sb.toString().trim();
+        return sb.toString();
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
+/* T=O(n) S=O(n)
 class Solution {
     public String reverseWords(String s) {
         String[] words=s.trim().split("\\s+");
