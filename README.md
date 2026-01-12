@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harishkumar-04/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Harishkumar-04/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Harishkumar-04/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Harishkumar-04/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harishkumar-04/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Harishkumar-04/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harishkumar-04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harishkumar-04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Harishkumar-04/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
