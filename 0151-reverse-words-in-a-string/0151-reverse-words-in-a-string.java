@@ -4,6 +4,7 @@ class Solution {
         StringBuilder sb=new StringBuilder();
         while(i>=0){
             while(i>=0 && s.charAt(i)==' ') i--;
+            if(i<0) break;
 
             int end=i;
 
