@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harishkumar-04/DSA/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Harishkumar-04/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harishkumar-04/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harishkumar-04/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
