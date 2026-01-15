@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Harishkumar-04/DSA/tree/master/1089-duplicate-zeros) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2396-strictly-palindromic-number](https://github.com/Harishkumar-04/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [1390-four-divisors](https://github.com/Harishkumar-04/DSA/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/Harishkumar-04/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/Harishkumar-04/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Harishkumar-04/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
