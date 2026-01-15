@@ -1,40 +1,24 @@
 class Solution {
     public int myAtoi(String s) {
-        if (s == null) return 0;
+        int i = 0, n = s.length(), sign = 1, num = 0;
 
-        String str = s.trim();
-        if (str.length() == 0) return 0;
+        while (i < n && s.charAt(i) == ' ')
+            i++;
 
-        StringBuilder sb = new StringBuilder();
-        boolean signUsed = false;
-
-        for (char ch : str.toCharArray()) {
-
-            // stop if character is not digit or sign
-            if (!Character.isDigit(ch) && ch != '-' && ch != '+') {
-                break;
-            }
-
-            // allow sign only once and only at start
-            if (ch == '-' || ch == '+') {
-                if (signUsed || sb.length() > 0) break;
-                signUsed = true;
-                sb.append(ch);
-            } 
-            else {
-                sb.append(ch);
-            }
+        if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
+            sign = (s.charAt(i) == '-') ? -1 : 1;
+            i++;
         }
 
-        // handle empty or invalid cases
-        if (sb.length() == 0 || sb.toString().equals("-") || sb.toString().equals("+"))
-            return 0;
+        while (i < n && Character.isDigit(s.charAt(i))) {
+            int digit = s.charAt(i) - '0';
 
-        // handle overflow safely
-        try {
-            return Integer.parseInt(sb.toString());
-        } catch (NumberFormatException e) {
-            return sb.charAt(0) == '-' ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+            if(num>Integer.MAX_VALUE/10 || (num==Integer.MAX_VALUE/10 && digit>7))
+            return (sign==1)? Integer.MAX_VALUE:Integer.MIN_VALUE;
+
+            num = num * 10 + digit;
+            i++;
         }
+        return num * sign;
     }
 }
