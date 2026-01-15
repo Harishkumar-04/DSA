@@ -1,5 +1,46 @@
 class Solution {
     public String longestPalindrome(String s) {
+        int n = s.length();
+        String ans = "";
+
+        // generate all substrings
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                // check if substring s[i..j] is palindrome
+                if (isPalindrome(s, i, j)) {
+                    int len = j - i + 1;
+                    if (len > ans.length()) {
+                        ans = s.substring(i, j + 1);
+                    }
+                }
+            }
+        }
+        return ans;
+    }
+
+    // helper to check palindrome
+    private boolean isPalindrome(String s, int left, int right) {
+        while (left < right) {
+            if (s.charAt(left) != s.charAt(right)) {
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
+    }
+}
+
+
+
+
+
+
+/*
+
+
+class Solution {
+    public String longestPalindrome(String s) {
 
         int n = s.length();
         String ans = "";
@@ -32,9 +73,6 @@ class Solution {
 }
 
 
-
-
-/*
 class Solution {
     public String longestPalindrome(String s) {
 
