@@ -1,12 +1,40 @@
+//Optimal T=O(n²) S=O(1)
+
 class Solution {
     public String longestPalindrome(String s) {
         int n = s.length();
         String ans = "";
 
-        // generate all substrings
+        for (int c = 0; c < s.length(); c++) {
+            String odd = expand(s, c, c);
+            if (odd.length() > ans.length())
+                ans = odd;
+
+            String even = expand(s, c, c + 1);
+            if (even.length() > ans.length())
+                ans = even;
+        }
+        return ans;
+    }
+
+    private String expand(String s, int left, int right) {
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
+        }
+        return s.substring(left + 1, right);
+    }
+}
+
+/* Better T=O(n³) S=O(1)
+
+class Solution {
+    public String longestPalindrome(String s) {
+        int n = s.length();
+        String ans = "";
+
         for (int i = 0; i < n; i++) {
             for (int j = i; j < n; j++) {
-                // check if substring s[i..j] is palindrome
                 if (isPalindrome(s, i, j)) {
                     int len = j - i + 1;
                     if (len > ans.length()) {
@@ -18,7 +46,6 @@ class Solution {
         return ans;
     }
 
-    // helper to check palindrome
     private boolean isPalindrome(String s, int left, int right) {
         while (left < right) {
             if (s.charAt(left) != s.charAt(right)) {
@@ -30,14 +57,7 @@ class Solution {
         return true;
     }
 }
-
-
-
-
-
-
-/*
-
+//-----------------------------------------------------------------------------------------------
 
 class Solution {
     public String longestPalindrome(String s) {
@@ -46,24 +66,27 @@ class Solution {
         String ans = "";
 
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j <= n; j++) {
 
-                String str = s.substring(i, j);
+            for (int j = i; j < n; j++) {
 
-                int l = 0, r = str.length() - 1;
+                int left = i;
+                int right = j;
                 boolean isPalindrome = true;
 
-                while (l <= r) {
-                    if (str.charAt(l) != str.charAt(r)) {
+                while (left < right) {
+                    if (s.charAt(left) != s.charAt(right)) {
                         isPalindrome = false;
                         break;
                     }
-                    l++;
-                    r--;
+                    left++;
+                    right--;
                 }
 
-                if (isPalindrome && str.length() > ans.length()) {
-                    ans = str;
+                if (isPalindrome) {
+                    int len = j - i + 1;
+                    if (len > ans.length()) {
+                        ans = s.substring(i, j + 1);
+                    }
                 }
             }
         }
@@ -72,6 +95,10 @@ class Solution {
     }
 }
 
+*/
+
+
+/* Brute Force T=O(n³) S=O(n²)
 
 class Solution {
     public String longestPalindrome(String s) {
