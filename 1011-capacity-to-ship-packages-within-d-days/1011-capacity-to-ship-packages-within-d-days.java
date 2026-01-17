@@ -3,23 +3,27 @@ class Solution {
 
         int n = weights.length;
         int totwt = 0;
+        int maxwt = 0;
 
-        for (int w : weights)
+        for (int w : weights) {
             totwt += w;
+            maxwt = Math.max(maxwt, w);
+        }
 
-        int avgwt = totwt / days;   // your starting guess
+        int avgwt = Math.max(maxwt, totwt / days);
 
-        while (true) {              // retry loop
+        while (avgwt <= totwt) {
+
             int i = 0;
             int capacity = 0;
-            int countDays = 1;      // start with day 1
+            int countDays = 1;
 
-            while (i < n) {         // safe bound
+            while (i < n) {
                 if (capacity + weights[i] <= avgwt) {
                     capacity += weights[i];
                     i++;
                 } else {
-                    countDays++;   // move to next day
+                    countDays++;
                     capacity = 0;
                 }
 
@@ -28,10 +32,12 @@ class Solution {
             }
 
             if (i == n && countDays <= days) {
-                return avgwt;       // success
+                return avgwt;
             }
 
-            avgwt++;                // try bigger capacity
+            avgwt++;
         }
+
+        return totwt;
     }
 }
