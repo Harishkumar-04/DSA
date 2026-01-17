@@ -9,20 +9,20 @@ class Solution {
             totwt += w;
             maxwt = Math.max(maxwt, w);
         }
-        
-        if (days == 1) return totwt;
-        if (days >= weights.length) return maxwt;
 
-        int capacityGuess = maxwt;
+        if (days == 1)
+            return totwt;
+        if (days >= n)
+            return maxwt;
 
-        while (capacityGuess <= totwt) {
+        while (maxwt <= totwt) {
 
             int i = 0;
             int capacity = 0;
             int countDays = 1;
 
             while (i < n) {
-                if (capacity + weights[i] <= capacityGuess) {
+                if (capacity + weights[i] <= maxwt) {
                     capacity += weights[i];
                     i++;
                 } else {
@@ -35,12 +35,12 @@ class Solution {
             }
 
             if (i == n && countDays <= days) {
-                return capacityGuess;
+                return maxwt;
             }
 
-            capacityGuess++;
+            maxwt++;
         }
 
-        return totwt; 
+        return totwt;
     }
 }
