@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Harishkumar-04/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Harishkumar-04/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Harishkumar-04/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [1390-four-divisors](https://github.com/Harishkumar-04/DSA/tree/master/1390-four-divisors) |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Harishkumar-04/DSA/tree/master/2396-strictly-palindromic-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Harishkumar-04/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
