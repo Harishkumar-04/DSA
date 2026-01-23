@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harishkumar-04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Harishkumar-04/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harishkumar-04/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3110-score-of-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harishkumar-04/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
 |  |
