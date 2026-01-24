@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Harishkumar-04/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/Harishkumar-04/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
