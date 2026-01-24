@@ -1,5 +1,21 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
+        int[] count = new int[nums.length - 1];
+        int[] result = new int[2];
+        int i = 0;
+
+        for (int num : nums) {
+            count[num]++;
+            if (count[num] == 2)
+                result[i++] = num;
+        }
+        return result;
+    }
+}
+
+/*
+class Solution {
+    public int[] getSneakyNumbers(int[] nums) {
         List<Integer> list=new ArrayList<>();
         Arrays.sort(nums);
 
@@ -14,3 +30,4 @@ class Solution {
         return arr;
     }
 }
+*/
