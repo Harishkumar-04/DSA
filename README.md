@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harishkumar-04/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harishkumar-04/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harishkumar-04/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Harishkumar-04/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harishkumar-04/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harishkumar-04/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harishkumar-04/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
