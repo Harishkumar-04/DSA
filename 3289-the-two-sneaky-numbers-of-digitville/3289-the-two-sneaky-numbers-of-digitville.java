@@ -1,6 +1,26 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        int[] count = new int[nums.length - 1];
+        boolean[] seen = new boolean[nums.length-2];
+        int[] result = new int[2];
+        int i = 0;
+
+        for (int num : nums) {
+            if (seen[num]) {
+                result[i++] = num;
+                if (i == 2)
+                    break;
+            } else {
+                seen[num] = true;
+            }
+        }
+        return result;
+    }
+}
+
+/*
+class Solution {
+    public int[] getSneakyNumbers(int[] nums) {
+        int[] count = new int[nums.length - 2];
         int[] result = new int[2];
         int i = 0;
 
@@ -12,6 +32,7 @@ class Solution {
         return result;
     }
 }
+*/
 
 /*
 class Solution {
