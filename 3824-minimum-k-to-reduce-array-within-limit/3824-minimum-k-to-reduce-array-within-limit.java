@@ -1,15 +1,6 @@
 class Solution {
     public int minimumK(int[] nums) {
-        int left=1,right=0;
-
-        for(int num:nums){
-            right=Math.max(right,num);
-        }
-
-        int n = nums.length;
-        int minKByCount = (int) Math.ceil(Math.sqrt(n));
-        right = Math.max(right, minKByCount);
-
+        int left=1,right=100000;
         int answer=right;
 
         while(left<=right){
