@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
 | [3637-trionic-array-i](https://github.com/Harishkumar-04/DSA/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/Harishkumar-04/DSA/tree/master/3701-compute-alternating-sum) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harishkumar-04/DSA/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harishkumar-04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harishkumar-04/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Harishkumar-04/DSA/tree/master/1539-kth-missing-positive-number) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harishkumar-04/DSA/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Two Pointers
 |  |
 | ------- |
