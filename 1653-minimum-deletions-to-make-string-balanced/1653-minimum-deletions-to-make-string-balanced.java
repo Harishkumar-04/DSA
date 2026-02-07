@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
     public int minimumDeletions(String s) {
         int countb=0,delete=0;
 
@@ -11,7 +11,7 @@
         return delete;
     }
 }
-*/
+/*
 class Solution {
     public int minimumDeletions(String s) {
         Stack<Character> st=new Stack<>();
@@ -30,5 +30,5 @@ class Solution {
         return count;
     }
 }
-
+*/
        
