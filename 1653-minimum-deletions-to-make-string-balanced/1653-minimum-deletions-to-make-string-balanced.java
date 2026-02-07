@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int minimumDeletions(String s) {
         int countb=0,delete=0;
 
@@ -11,3 +11,24 @@ class Solution {
         return delete;
     }
 }
+*/
+class Solution {
+    public int minimumDeletions(String s) {
+        Stack<Character> st=new Stack<>();
+        int count=0;
+
+        for(char ch:s.toCharArray()){
+            if(ch=='b')
+            st.push(ch);
+            else{
+                if(!st.isEmpty()){
+                    st.pop();
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
+}
+
+       
