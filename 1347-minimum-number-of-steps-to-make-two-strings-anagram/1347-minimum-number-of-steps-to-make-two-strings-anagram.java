@@ -13,13 +13,3 @@ class Solution {
         return count;
     }
 }
-
-
-/*
-l e t c o d
-1 3 1 1 1 1
-1 2 0 0 1 1 = 5
-
-p r a c t i e
-1 1 1 2 1 1 1
-*/
