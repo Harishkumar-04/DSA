@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harishkumar-04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harishkumar-04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harishkumar-04/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harishkumar-04/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harishkumar-04/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harishkumar-04/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harishkumar-04/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harishkumar-04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harishkumar-04/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Harishkumar-04/DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harishkumar-04/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harishkumar-04/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/Harishkumar-04/DSA/tree/master/3163-string-compression-iii) |
