@@ -12,8 +12,6 @@ class Solution {
         int count = 0;
 
         for(int i = 25; i >= 0; i--) {
-            if(freq[i] == 0) continue;
-
             res += m * freq[i];
             count++;
 
