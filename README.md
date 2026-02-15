@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harishkumar-04/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Harishkumar-04/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harishkumar-04/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Harishkumar-04/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Harishkumar-04/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Harishkumar-04/DSA/tree/master/0292-nim-game) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harishkumar-04/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harishkumar-04/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Harishkumar-04/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Harishkumar-04/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Harishkumar-04/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Harishkumar-04/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Harishkumar-04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harishkumar-04/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Harishkumar-04/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harishkumar-04/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Harishkumar-04/DSA/tree/master/1929-concatenation-of-array) |
