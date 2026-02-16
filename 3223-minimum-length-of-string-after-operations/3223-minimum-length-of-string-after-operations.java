@@ -8,13 +8,9 @@ class Solution {
         int res = 0;
 
         for (int count : freq) {
-            if (count == 0)
-                continue;
-
-            if (count <= 2)
-                res += count;
-            else
+            if (count > 0) {
                 res += (count % 2 == 0) ? 2 : 1;
+            }
         }
         return res;
     }
