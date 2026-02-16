@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Harishkumar-04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2785-sort-vowels-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harishkumar-04/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Harishkumar-04/DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harishkumar-04/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
