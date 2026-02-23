@@ -5,8 +5,9 @@ class Solution {
 
         for(int i=0;i<=s.length()-k;i++){
             set.add(s.substring(i,i+k));
+
+            if(set.size()==1<<k) return true;
         }
-        System.out.print(set);
-        return (set.size()==1<<k);
+        return false;
     }
 }
