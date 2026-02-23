@@ -7,7 +7,6 @@ class Solution {
             set.add(s.substring(i,i+k));
         }
         System.out.print(set);
-        return set.size()==Math.pow(2,k);
-        
+        return (set.size()==1<<k);
     }
 }
