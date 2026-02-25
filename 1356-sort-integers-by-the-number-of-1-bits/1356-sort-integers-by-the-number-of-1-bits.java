@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] sortByBits(int[] arr) {
         Integer[] nums = new Integer[arr.length];
