@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Harishkumar-04/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harishkumar-04/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harishkumar-04/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Harishkumar-04/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
