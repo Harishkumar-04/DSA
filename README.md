@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harishkumar-04/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harishkumar-04/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harishkumar-04/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Harishkumar-04/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harishkumar-04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1816-truncate-sentence) |
