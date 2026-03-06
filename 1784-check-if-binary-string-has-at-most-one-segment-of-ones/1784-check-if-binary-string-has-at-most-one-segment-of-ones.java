@@ -1,5 +1,12 @@
 class Solution {
     public boolean checkOnesSegment(String s) {
-        return !s.contains("01");
+
+        for (int i = 1; i < s.length(); i++) {
+
+            if (s.charAt(i - 1) == '0' && s.charAt(i) == '1') {
+                return false;
+            }
+        }
+        return true;
     }
 }
