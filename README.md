@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Harishkumar-04/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harishkumar-04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harishkumar-04/DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Harishkumar-04/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harishkumar-04/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Harishkumar-04/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0053-maximum-subarray) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harishkumar-04/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harishkumar-04/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harishkumar-04/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Harishkumar-04/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Harishkumar-04/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Harishkumar-04/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harishkumar-04/DSA/tree/master/0205-isomorphic-strings) |
