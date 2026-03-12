@@ -1,24 +1,20 @@
 class Solution {
     public int minDeletions(String s) {
-        Map<Character, Integer> map = new HashMap<>();
         Set<Integer> set = new HashSet<>();
-        int count = 0;
+        int count=0;
 
-        for (char ch : s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        int[] freq=new int[26];
+        for (char c:s.toCharArray()) {
+            freq[c-'a']++;
         }
 
-        for (char ch : map.keySet()) {
-            int freq = map.get(ch);
-
-            while (freq > 0 && set.contains(freq)) {
-                freq--;
+        for (int num:freq) {
+            while(num>0 && set.contains(num)) {
+                num--;
                 count++;
             }
-
-            set.add(freq);
+            set.add(num);
         }
-
         return count;
     }
 }
