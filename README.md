@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harishkumar-04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harishkumar-04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harishkumar-04/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
