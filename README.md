@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harishkumar-04/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harishkumar-04/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harishkumar-04/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harishkumar-04/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harishkumar-04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harishkumar-04/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harishkumar-04/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harishkumar-04/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harishkumar-04/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harishkumar-04/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harishkumar-04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/Harishkumar-04/DSA/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harishkumar-04/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harishkumar-04/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harishkumar-04/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/Harishkumar-04/DSA/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harishkumar-04/DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harishkumar-04/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harishkumar-04/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
