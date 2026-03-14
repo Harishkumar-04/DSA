@@ -3,40 +3,30 @@ class Solution {
 
         int n = gas.length;
 
-        int totalGas = 0;
-        int totalCost = 0;
+        for (int i = 0; i < n; i++) {
 
-        for(int i = 0; i < n; i++){
-            totalGas += gas[i];
-            totalCost += cost[i];
-        }
+            if (gas[i] >= cost[i]) {
 
-        if(totalGas < totalCost) return -1;
+                int mov = 0;
+                int idx = i;
+                int curr = idx;
+                int steps = 0;
 
-        int mov = 0;
+                while (steps < n) {
 
-        for (int i = 0; i < n; ) {
+                    mov += gas[curr];
+                    mov -= cost[curr];
 
-            mov = 0;
-            int j = 0;
+                    if (mov < 0) break;
 
-            while (j < n) {
+                    curr = (curr + 1) % n;
+                    steps++;
 
-                int station = (i + j) % n;
-
-                mov += gas[station];
-                mov -= cost[station];
-
-                if (mov < 0) {
-                    break;
+                    if (curr == idx) return idx;
                 }
 
-                j++;
+                i = i + steps;
             }
-
-            if (j == n) return i;
-
-            i = i + j + 1;   
         }
 
         return -1;
