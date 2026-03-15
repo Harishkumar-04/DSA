@@ -26,17 +26,12 @@
 class Solution {
     public long countCommas(long n) {
 
-        if (n < 1000) return 0;
-
         long cnt = 0;
+        long level = 1000;
 
-        for (int i = 3; i <= 15; i += 3) {
-
-            long level = (long)Math.pow(10, i);
-
-            if (n >= level) {
-                cnt += (n - level) + 1;
-            }
+        while (level <= n) {
+            cnt += (n - level) + 1;
+            level *= 1000;
         }
 
         return cnt;
