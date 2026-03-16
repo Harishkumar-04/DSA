@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harishkumar-04/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harishkumar-04/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Harishkumar-04/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Harishkumar-04/DSA/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harishkumar-04/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harishkumar-04/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Harishkumar-04/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2785-sort-vowels-in-a-string) |
