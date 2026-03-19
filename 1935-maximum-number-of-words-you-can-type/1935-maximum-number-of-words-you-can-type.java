@@ -19,6 +19,8 @@
     }
 }
 */
+
+/*
 class Solution {
     public int canBeTypedWords(String text, String brokenLetters) {
         HashSet<Character> set = new HashSet<>();
@@ -38,5 +40,29 @@ class Solution {
             if(type) ans++;
         }
         return ans;
+    }
+}
+*/
+
+class Solution {
+    public int canBeTypedWords(String text, String brokenLetters) {
+
+        int count = 0;
+
+        for (String s : text.split(" ")) {
+            boolean type = true;
+
+            for (char ch : s.toCharArray()) {
+                if (brokenLetters.indexOf(ch) != -1) {
+                    type = false;
+                    break;
+                }
+            }
+
+            if (type)
+                count++;
+        }
+
+        return count;
     }
 }
