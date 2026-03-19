@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int canBeTypedWords(String text, String brokenLetters) {
         int n = brokenLetters.length();
         int ans = 0;
@@ -16,5 +16,27 @@ class Solution {
         }
         return ans;
 
+    }
+}
+*/
+class Solution {
+    public int canBeTypedWords(String text, String brokenLetters) {
+        HashSet<Character> set = new HashSet<>();
+
+        for (char ch : brokenLetters.toCharArray()) {
+            set.add(ch);
+        }
+        int ans = 0;
+        for(String s:text.split(" ")){
+            boolean type=true;
+            for (char ch : s.toCharArray()) {
+                if(set.contains(ch)){
+                    type=false;
+                    break;
+                }
+            }
+            if(type) ans++;
+        }
+        return ans;
     }
 }
