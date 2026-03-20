@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harishkumar-04/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
 | [3637-trionic-array-i](https://github.com/Harishkumar-04/DSA/tree/master/3637-trionic-array-i) |
+| [3668-restore-finishing-order](https://github.com/Harishkumar-04/DSA/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Harishkumar-04/DSA/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harishkumar-04/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harishkumar-04/DSA/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Harishkumar-04/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harishkumar-04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harishkumar-04/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/Harishkumar-04/DSA/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harishkumar-04/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harishkumar-04/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
