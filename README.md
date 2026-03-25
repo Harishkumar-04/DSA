@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/Harishkumar-04/DSA/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harishkumar-04/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Harishkumar-04/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harishkumar-04/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/Harishkumar-04/DSA/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Harishkumar-04/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harishkumar-04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Harishkumar-04/DSA/tree/master/0709-to-lower-case) |
+| [0791-custom-sort-string](https://github.com/Harishkumar-04/DSA/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Harishkumar-04/DSA/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harishkumar-04/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Harishkumar-04/DSA/tree/master/0890-find-and-replace-pattern) |
