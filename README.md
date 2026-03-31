@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Harishkumar-04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Harishkumar-04/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harishkumar-04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harishkumar-04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2109-adding-spaces-to-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harishkumar-04/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harishkumar-04/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Harishkumar-04/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harishkumar-04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harishkumar-04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harishkumar-04/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harishkumar-04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harishkumar-04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harishkumar-04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harishkumar-04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harishkumar-04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harishkumar-04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harishkumar-04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2109-adding-spaces-to-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harishkumar-04/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harishkumar-04/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
