@@ -6,20 +6,15 @@ class Solution {
         for (int i = 0; i < target.length(); i++) {
             char ch = target.charAt(i);
 
-            for (int j = 97; j <= (int) ch; j++) { 
+            for (char c = 'a'; c <= ch; c++) {
+                sb.append(c);
+                list.add(sb.toString());
 
-                if ((char) j == ch) {
-                    sb.append((char) j);
-                    list.add(sb.toString()); 
-                } else {
-                    sb.append((char) j);
-                    list.add(sb.toString()); 
-                }
-
-                if ((char) j != ch)
+                if (c != ch){
                     sb.deleteCharAt(sb.length() - 1);
+                }
             }
         }
         return list;
     }
-}    
+}
