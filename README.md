@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harishkumar-04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Harishkumar-04/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Harishkumar-04/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Harishkumar-04/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Harishkumar-04/DSA/tree/master/0791-custom-sort-string) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Harishkumar-04/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Harishkumar-04/DSA/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/Harishkumar-04/DSA/tree/master/0709-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/Harishkumar-04/DSA/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Harishkumar-04/DSA/tree/master/0796-rotate-string) |
