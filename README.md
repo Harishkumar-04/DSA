@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harishkumar-04/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Harishkumar-04/DSA/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishkumar-04/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Harishkumar-04/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Harishkumar-04/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harishkumar-04/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harishkumar-04/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Harishkumar-04/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishkumar-04/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harishkumar-04/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Dynamic Programming
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Harishkumar-04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishkumar-04/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harishkumar-04/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harishkumar-04/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Harishkumar-04/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
