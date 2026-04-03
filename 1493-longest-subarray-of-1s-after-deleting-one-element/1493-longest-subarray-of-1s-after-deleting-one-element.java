@@ -1,4 +1,6 @@
-/*class Solution {
+/* my very 1st approach 1938ms
+
+class Solution {
     public int longestSubarray(int[] nums) {
         int idx = -1, max = 0;
         boolean zero = false;
@@ -31,6 +33,8 @@
 }
 */
 
+/* 1721 ms
+
 class Solution {
     public int longestSubarray(int[] nums) {
         int max=0;
@@ -45,6 +49,28 @@ class Solution {
                 max=Math.max(max,j-i);
             }
         }
+        return max;
+    }
+}
+*/
+
+class Solution {
+    public int longestSubarray(int[] nums) {
+        int max = 0, i = 0, zeros = 0;
+
+        for (int j = 0; j < nums.length; j++) {
+            if (nums[j] == 0)
+                zeros++;
+
+            while (zeros > 1) {
+                if (nums[i] == 0) {
+                    zeros--;
+                }
+                i++;
+            }
+            max = Math.max(max, j - i);
+        }
+
         return max;
     }
 }
