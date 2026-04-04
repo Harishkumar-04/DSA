@@ -12,19 +12,17 @@ class Solution {
             }
         }
 
-        lower.reverse();
-        symbol.reverse();
-
         StringBuilder result = new StringBuilder();
-        int i = 0, j = 0;
+        int i = lower.length()-1;
+        int j = symbol.length()-1;
 
         for (char ch : s.toCharArray()) {
             if (Character.isLowerCase(ch)) {
                 result.append(lower.charAt(i));
-                i++;
+                i--;
             } else {
                 result.append(symbol.charAt(j));
-                j++;
+                j--;
             }
         }
 
