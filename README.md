@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harishkumar-04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harishkumar-04/DSA/tree/master/0409-longest-palindrome) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Harishkumar-04/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Harishkumar-04/DSA/tree/master/0500-keyboard-row) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Harishkumar-04/DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Harishkumar-04/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Harishkumar-04/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harishkumar-04/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/Harishkumar-04/DSA/tree/master/1390-four-divisors) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harishkumar-04/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Harishkumar-04/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Harishkumar-04/DSA/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/Harishkumar-04/DSA/tree/master/0657-robot-return-to-origin) |
