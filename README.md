@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harishkumar-04/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harishkumar-04/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Harishkumar-04/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Harishkumar-04/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harishkumar-04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harishkumar-04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Harishkumar-04/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harishkumar-04/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harishkumar-04/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harishkumar-04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Harishkumar-04/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harishkumar-04/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Harishkumar-04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harishkumar-04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Harishkumar-04/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Harishkumar-04/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
