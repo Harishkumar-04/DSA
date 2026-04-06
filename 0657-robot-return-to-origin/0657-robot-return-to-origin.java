@@ -11,9 +11,6 @@ class Solution {
             else R++;
 
         } 
-        if(U==D && L==R)   
-        return true;
-        else
-        return false;    
+        return (U==D && L==R);  
     }
 }
