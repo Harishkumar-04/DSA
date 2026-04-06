@@ -1,89 +1,89 @@
 class Solution {
     public String originalDigits(String s) {
-        Map<Character, Integer> map = new HashMap<>();
+
+        int[] freq = new int[26];
 
         for (char ch : s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            freq[ch - 'a']++;
         }
 
         StringBuilder sb = new StringBuilder();
 
-        while (map.getOrDefault('z', 0) > 0) {
+        while (freq['z' - 'a'] > 0) {
             sb.append('0');
-            map.put('z', map.get('z') - 1);
-            map.put('e', map.get('e') - 1);
-            map.put('r', map.get('r') - 1);
-            map.put('o', map.get('o') - 1);
+            freq['z' - 'a']--;
+            freq['e' - 'a']--;
+            freq['r' - 'a']--;
+            freq['o' - 'a']--;
         }
 
-        while (map.getOrDefault('w', 0) > 0) {
+        while (freq['w' - 'a'] > 0) {
             sb.append('2');
-            map.put('t', map.get('t') - 1);
-            map.put('w', map.get('w') - 1);
-            map.put('o', map.get('o') - 1);
+            freq['t' - 'a']--;
+            freq['w' - 'a']--;
+            freq['o' - 'a']--;
         }
 
-        while (map.getOrDefault('u', 0) > 0) {
+        while (freq['u' - 'a'] > 0) {
             sb.append('4');
-            map.put('f', map.get('f') - 1);
-            map.put('o', map.get('o') - 1);
-            map.put('u', map.get('u') - 1);
-            map.put('r', map.get('r') - 1);
+            freq['f' - 'a']--;
+            freq['o' - 'a']--;
+            freq['u' - 'a']--;
+            freq['r' - 'a']--;
         }
 
-        while (map.getOrDefault('x', 0) > 0) {
+        while (freq['x' - 'a'] > 0) {
             sb.append('6');
-            map.put('s', map.get('s') - 1);
-            map.put('i', map.get('i') - 1);
-            map.put('x', map.get('x') - 1);
+            freq['s' - 'a']--;
+            freq['i' - 'a']--;
+            freq['x' - 'a']--;
         }
 
-        while (map.getOrDefault('g', 0) > 0) { 
+        while (freq['g' - 'a'] > 0) {
             sb.append('8');
-            map.put('e', map.get('e') - 1);
-            map.put('i', map.get('i') - 1);
-            map.put('g', map.get('g') - 1);
-            map.put('h', map.get('h') - 1);
-            map.put('t', map.get('t') - 1);
+            freq['e' - 'a']--;
+            freq['i' - 'a']--;
+            freq['g' - 'a']--;
+            freq['h' - 'a']--;
+            freq['t' - 'a']--;
         }
 
-
-        while (map.getOrDefault('h', 0) > 0) { 
+        while (freq['h' - 'a'] > 0) {
             sb.append('3');
-            map.put('t', map.get('t') - 1);
-            map.put('h', map.get('h') - 1);
-            map.put('r', map.get('r') - 1);
-            map.put('e', map.get('e') - 2);
+            freq['t' - 'a']--;
+            freq['h' - 'a']--;
+            freq['r' - 'a']--;
+            freq['e' - 'a'] -= 2;
         }
 
-        while (map.getOrDefault('f', 0) > 0) { 
+        while (freq['f' - 'a'] > 0) {
             sb.append('5');
-            map.put('f', map.get('f') - 1);
-            map.put('i', map.get('i') - 1);
-            map.put('v', map.get('v') - 1);
-            map.put('e', map.get('e') - 1);
+            freq['f' - 'a']--;
+            freq['i' - 'a']--;
+            freq['v' - 'a']--;
+            freq['e' - 'a']--;
         }
 
-        while (map.getOrDefault('s', 0) > 0) { 
+        while (freq['s' - 'a'] > 0) {
             sb.append('7');
-            map.put('s', map.get('s') - 1);
-            map.put('e', map.get('e') - 2);
-            map.put('v', map.get('v') - 1);
-            map.put('n', map.get('n') - 1);
+            freq['s' - 'a']--;
+            freq['e' - 'a'] -= 2;
+            freq['v' - 'a']--;
+            freq['n' - 'a']--;
         }
 
-        while (map.getOrDefault('o', 0) > 0) { 
+        while (freq['o' - 'a'] > 0) {
             sb.append('1');
-            map.put('o', map.get('o') - 1);
-            map.put('n', map.get('n') - 1);
-            map.put('e', map.get('e') - 1);
+            freq['o' - 'a']--;
+            freq['n' - 'a']--;
+            freq['e' - 'a']--;
         }
 
-        while (map.getOrDefault('i', 0) > 0) { 
+        while (freq['i' - 'a'] > 0) {
             sb.append('9');
-            map.put('n', map.get('n') - 2);
-            map.put('i', map.get('i') - 1);
-            map.put('e', map.get('e') - 1);
+            freq['n' - 'a'] -= 2;
+            freq['i' - 'a']--;
+            freq['e' - 'a']--;
         }
 
         char[] arr = sb.toString().toCharArray();
