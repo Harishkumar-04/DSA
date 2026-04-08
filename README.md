@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
 | [3527-find-the-most-common-response](https://github.com/Harishkumar-04/DSA/tree/master/3527-find-the-most-common-response) |
 | [3637-trionic-array-i](https://github.com/Harishkumar-04/DSA/tree/master/3637-trionic-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Harishkumar-04/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/Harishkumar-04/DSA/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Harishkumar-04/DSA/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harishkumar-04/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harishkumar-04/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harishkumar-04/DSA/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Harishkumar-04/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harishkumar-04/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Harishkumar-04/DSA/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harishkumar-04/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Harishkumar-04/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/Harishkumar-04/DSA/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Harishkumar-04/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
