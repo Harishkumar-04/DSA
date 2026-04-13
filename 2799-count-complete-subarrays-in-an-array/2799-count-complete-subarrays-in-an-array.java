@@ -6,9 +6,9 @@ class Solution {
         }
 
         int i = 0, n = nums.length, count = 0;
+        Set<Integer> cmplt = new HashSet<>();
 
         while (i < n) {
-            Set<Integer> cmplt = new HashSet<>();
             for (int j = i; j < nums.length; j++) {
                 cmplt.add(nums[j]);
                 if (cmplt.size() == set.size()) {
@@ -16,6 +16,7 @@ class Solution {
                     break;
                 }
             }
+            cmplt.clear();
             i++;
         }
         return count;
