@@ -1,9 +1,12 @@
-/*class Solution {
-    public int maxConsecutiveAnswers(String answerKey, int k) {
+/* My very 1st approach
 
-        int max = 0;
+class Solution {
+    public int maxConsecutiveAnswers(String answerKey, int k) {
+ 
+        int max = 0; 
 
         int fReplace = 0, j = 0;
+
         for (int i = 0; i < answerKey.length(); i++) {
 
             if (answerKey.charAt(i) == 'F')
@@ -35,6 +38,38 @@
         return max;
     }
 }
+*/
+
+/*
+
+class Solution {
+    public int maxConsecutiveAnswers(String answerKey, int k) {
+
+        int max = 0;
+
+        for (char ch : new char[]{'F', 'T'}) {
+
+            int replace = 0, j = 0;
+
+            for (int i = 0; i < answerKey.length(); i++) {
+
+                if (answerKey.charAt(i) == ch)
+                    replace++;
+
+                while (replace > k) {
+                    if (answerKey.charAt(j) == ch)
+                        replace--;
+                    j++;
+                }
+
+                max = Math.max(max, i - j + 1);
+            }
+        }
+
+        return max;
+    }
+}
+
 */
 
 class Solution {
