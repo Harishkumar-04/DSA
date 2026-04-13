@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int maxConsecutiveAnswers(String answerKey, int k) {
 
         int max = 0;
@@ -17,8 +17,7 @@ class Solution {
             max = Math.max(max, i - j + 1);
         }
 
-        int tReplace = 0;
-        j = 0;
+        int tReplace = 0, j = 0;
 
         for (int i = 0; i < answerKey.length(); i++) {
 
@@ -33,6 +32,29 @@ class Solution {
             max = Math.max(max, i - j + 1);
         }
 
+        return max;
+    }
+}
+*/
+
+class Solution {
+    public int maxConsecutiveAnswers(String answerKey, int k) {
+
+        int j=0,max=0,fCount=0,tCount=0;
+        for (int i = 0; i < answerKey.length(); i++) {
+
+            if (answerKey.charAt(i) == 'T') tCount++;
+            else fCount++;
+                
+
+            while (Math.min(tCount,fCount)>k) {
+                if (answerKey.charAt(j) == 'T') tCount--;
+                else fCount--;
+                j++;
+            }
+
+            max = Math.max(max, i - j + 1);
+        }
         return max;
     }
 }
