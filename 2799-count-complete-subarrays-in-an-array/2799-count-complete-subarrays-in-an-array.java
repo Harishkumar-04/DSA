@@ -5,13 +5,14 @@ class Solution {
             set.add(num);
         }
 
-        int count=0;
+        int n=nums.length,count=0;
         for(int i=0;i<nums.length;i++){
             Set<Integer> cmplt=new HashSet<>();
             for(int j=i;j<nums.length;j++){
                 cmplt.add(nums[j]);
                 if(cmplt.size()==set.size()){
-                    count++;
+                    count+=(n-j);
+                    break;
                 }
             }          
         }
