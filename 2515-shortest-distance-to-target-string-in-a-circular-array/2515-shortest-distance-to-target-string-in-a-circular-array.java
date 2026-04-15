@@ -5,33 +5,27 @@ class Solution {
         int min=Integer.MAX_VALUE;
         int n=words.length;
 
-        for(int i=startIndex;i<n;i++){
+        int i = startIndex, steps = 0;
+        while(steps < n){
             if(words[i].equals(target)){
-                min=Math.min(min,i-startIndex);
+                min = Math.min(min, steps);
                 break;
             }
+            i++;
+            if(i == n) i = 0;   
+            steps++;
         }
 
-        for(int i = 0; i < startIndex; i++){
+        i = startIndex;
+        steps = 0;
+        while(steps < n){
             if(words[i].equals(target)){
-                min = Math.min(min,(n-startIndex)+i);
+                min = Math.min(min, steps);
                 break;
             }
-        }
-
-        int i=startIndex-1,steps=1;
-        while(i!=startIndex){
-            if(i>=0){
-                if(words[i].equals(target)){
-                    min=Math.min(min,steps);
-                    break;
-                }
-                i--;
-                steps++;
-            }
-            else{
-                i=n-1;
-            }
+            i--;
+            if(i < 0) i = n - 1; 
+            steps++;
         }
         if(min==Integer.MAX_VALUE) return -1;
 
