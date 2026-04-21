@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harishkumar-04/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Harishkumar-04/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Harishkumar-04/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harishkumar-04/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harishkumar-04/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Harishkumar-04/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harishkumar-04/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
 |  |
