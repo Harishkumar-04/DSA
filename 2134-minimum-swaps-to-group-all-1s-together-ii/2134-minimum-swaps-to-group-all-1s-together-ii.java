@@ -15,7 +15,7 @@ class Solution {
         int maxOnes=currOnes,n=nums.length;
         for(int i=ones;i<n+ones;i++){
             currOnes+=nums[i%n];
-            currOnes-=nums[i-ones];
+            currOnes-=nums[(i-ones)%n];
 
             maxOnes=Math.max(maxOnes,currOnes);
         }
