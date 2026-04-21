@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harishkumar-04/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harishkumar-04/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harishkumar-04/DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harishkumar-04/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Harishkumar-04/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Harishkumar-04/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harishkumar-04/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Harishkumar-04/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harishkumar-04/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harishkumar-04/DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
