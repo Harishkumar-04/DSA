@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Harishkumar-04/DSA/tree/master/0860-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/Harishkumar-04/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harishkumar-04/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harishkumar-04/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harishkumar-04/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harishkumar-04/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Harishkumar-04/DSA/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harishkumar-04/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Harishkumar-04/DSA/tree/master/0890-find-and-replace-pattern) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harishkumar-04/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harishkumar-04/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Harishkumar-04/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/Harishkumar-04/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harishkumar-04/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harishkumar-04/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harishkumar-04/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harishkumar-04/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harishkumar-04/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harishkumar-04/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harishkumar-04/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Harishkumar-04/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
