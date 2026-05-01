@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harishkumar-04/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harishkumar-04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Harishkumar-04/DSA/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Harishkumar-04/DSA/tree/master/0500-keyboard-row) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Harishkumar-04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/Harishkumar-04/DSA/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
 | [1395-count-number-of-teams](https://github.com/Harishkumar-04/DSA/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishkumar-04/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Harishkumar-04/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Harishkumar-04/DSA/tree/master/0292-nim-game) |
+| [0396-rotate-function](https://github.com/Harishkumar-04/DSA/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harishkumar-04/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Harishkumar-04/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
