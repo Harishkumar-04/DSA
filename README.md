@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harishkumar-04/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/Harishkumar-04/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harishkumar-04/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Harishkumar-04/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Harishkumar-04/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harishkumar-04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harishkumar-04/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Harishkumar-04/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2895-minimum-processing-time](https://github.com/Harishkumar-04/DSA/tree/master/2895-minimum-processing-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harishkumar-04/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Harishkumar-04/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harishkumar-04/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harishkumar-04/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Harishkumar-04/DSA/tree/master/2645-minimum-additions-to-make-valid-string) |
