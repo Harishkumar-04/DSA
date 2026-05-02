@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Harishkumar-04/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Harishkumar-04/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harishkumar-04/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harishkumar-04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Harishkumar-04/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Harishkumar-04/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2615-sum-of-distances](https://github.com/Harishkumar-04/DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Harishkumar-04/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Harishkumar-04/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harishkumar-04/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2895-minimum-processing-time](https://github.com/Harishkumar-04/DSA/tree/master/2895-minimum-processing-time) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Harishkumar-04/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harishkumar-04/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Harishkumar-04/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Harishkumar-04/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Harishkumar-04/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
