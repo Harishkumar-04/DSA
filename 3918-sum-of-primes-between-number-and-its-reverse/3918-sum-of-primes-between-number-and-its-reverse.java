@@ -10,14 +10,8 @@ class Solution {
         }
 
         int tot=0;
-        int start, end;
-        if(original>rev){
-            end=original;
-            start=rev;
-        }else{
-            start=original;
-            end=rev;
-        }
+        int start=Math.min(original,rev);
+        int end=Math.max(original,rev);
 
         for(int i=start;i<=end;i++){
             if(isPrime(i)){
@@ -28,9 +22,12 @@ class Solution {
     }
 
     boolean isPrime(int num){
-        if(num<2) return false;
+        if (num<2) return false;
+        if (num==2) return true;
 
-        for(int j=2;j*j<=num;j++){
+        if (num%2==0) return false;
+
+        for(int j=3;j*j<=num;j+=2){
             if(num%j==0) return false;
         }
         return true;
