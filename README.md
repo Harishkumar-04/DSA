@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Harishkumar-04/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Harishkumar-04/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harishkumar-04/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Harishkumar-04/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harishkumar-04/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Harishkumar-04/DSA/tree/master/0054-spiral-matrix) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Harishkumar-04/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Harishkumar-04/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Harishkumar-04/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Harishkumar-04/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harishkumar-04/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harishkumar-04/DSA/tree/master/0067-add-binary) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harishkumar-04/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harishkumar-04/DSA/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Harishkumar-04/DSA/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harishkumar-04/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
