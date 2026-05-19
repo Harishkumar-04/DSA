@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harishkumar-04/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2540-minimum-common-value](https://github.com/Harishkumar-04/DSA/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Harishkumar-04/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Harishkumar-04/DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harishkumar-04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Harishkumar-04/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2540-minimum-common-value](https://github.com/Harishkumar-04/DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Harishkumar-04/DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Harishkumar-04/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harishkumar-04/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Harishkumar-04/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2540-minimum-common-value](https://github.com/Harishkumar-04/DSA/tree/master/2540-minimum-common-value) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harishkumar-04/DSA/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Two Pointers
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harishkumar-04/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harishkumar-04/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Harishkumar-04/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/Harishkumar-04/DSA/tree/master/2540-minimum-common-value) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Harishkumar-04/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Harishkumar-04/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
