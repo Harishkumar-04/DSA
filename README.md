@@ -698,4 +698,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Harishkumar-04/DSA/tree/master/0175-combine-two-tables) |
+| [0596-classes-with-at-least-5-students](https://github.com/Harishkumar-04/DSA/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
