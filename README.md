@@ -708,5 +708,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Harishkumar-04/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Harishkumar-04/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Harishkumar-04/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/Harishkumar-04/DSA/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Harishkumar-04/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
