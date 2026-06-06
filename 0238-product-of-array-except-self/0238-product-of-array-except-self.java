@@ -16,7 +16,7 @@ class Solution {
 
         for(int i=0;i<n;i++){
             if(zero>1){
-                arr[i]=0;
+                return arr;
             }
             else if(zero==1){
                 if(nums[i]==0){
