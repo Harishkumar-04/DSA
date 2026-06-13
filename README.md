@@ -732,4 +732,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Harishkumar-04/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/Harishkumar-04/DSA/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Harishkumar-04/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
