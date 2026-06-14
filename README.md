@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harishkumar-04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harishkumar-04/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Harishkumar-04/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Harishkumar-04/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harishkumar-04/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harishkumar-04/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -738,5 +739,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Harishkumar-04/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
