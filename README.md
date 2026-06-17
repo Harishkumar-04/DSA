@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Harishkumar-04/DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Harishkumar-04/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Harishkumar-04/DSA/tree/master/0231-power-of-two) |
 ## Design
 |  |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Harishkumar-04/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Harishkumar-04/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harishkumar-04/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
