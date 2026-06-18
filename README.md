@@ -744,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harishkumar-04/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Harishkumar-04/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0328-odd-even-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Harishkumar-04/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harishkumar-04/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
