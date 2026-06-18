@@ -23,10 +23,13 @@ class Solution {
         temp=head;
         while(temp!=null){
             cnt--;
-            if(cnt==n) break;
+            if(cnt==n){
+                temp.next=temp.next.next;
+                break;
+            }
             temp=temp.next;
         }
-        temp.next=temp.next.next;
+        
         return head;
     }
 }
