@@ -9,6 +9,7 @@
  *     }
  * }
  */
+/*
 public class Solution {
     public boolean hasCycle(ListNode head) {
         HashMap<ListNode,Integer> map=new HashMap<>();
@@ -22,3 +23,18 @@ public class Solution {
         return false;
     }
 }
+*/
+
+public class Solution {
+    public boolean hasCycle(ListNode head) {
+        ListNode slow=head,fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+
+            if(slow==fast) return true;
+        }
+        return false;
+    }
+}
+
