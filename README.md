@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harishkumar-04/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harishkumar-04/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harishkumar-04/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Harishkumar-04/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Harishkumar-04/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Harishkumar-04/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-04/DSA/tree/master/0217-contains-duplicate) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harishkumar-04/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Harishkumar-04/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harishkumar-04/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Harishkumar-04/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harishkumar-04/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0234-palindrome-linked-list) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harishkumar-04/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Harishkumar-04/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Harishkumar-04/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Harishkumar-04/DSA/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Harishkumar-04/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harishkumar-04/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Harishkumar-04/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Harishkumar-04/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harishkumar-04/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Harishkumar-04/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harishkumar-04/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Harishkumar-04/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0234-palindrome-linked-list) |
@@ -778,4 +782,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harishkumar-04/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Harishkumar-04/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
