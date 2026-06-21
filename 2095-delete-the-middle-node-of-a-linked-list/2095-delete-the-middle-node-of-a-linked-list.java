@@ -8,30 +8,49 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+ /*
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
         if(head == null || head.next == null){
             return null;
         }
-        
+
         ListNode temp=head;
         int n=0;
         while(temp!=null){
             n++;
             temp=temp.next;
         }
+
         n=n/2;
         temp=head;
         while(temp!=null){
             n--;
-
             if(n==0){
                 temp.next=temp.next.next;
                 break;
             }
             temp=temp.next;
         }
+        return head;      
+    }
+}
+*/
+
+class Solution {
+    public ListNode deleteMiddle(ListNode head) {
+        if(head == null || head.next == null){
+            return null;
+        }
+
+        ListNode slow=head,fast=head,prev=null;
+        while(fast!=null && fast.next!=null){
+            prev=slow;
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        prev.next=slow.next;
         return head;
-        
     }
 }
