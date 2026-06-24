@@ -1,8 +1,8 @@
 class Solution {
     public String countAndSay(int n) {
-        String s="1";
-
-        for(int i=1;i<n;i++){
+        if(n==1) return "1";
+        String s="11";
+        for(int i=2;i<n;i++){
             StringBuilder sb=new StringBuilder();
             int count=1;
             for(int j=0;j<s.length()-1;j++){
