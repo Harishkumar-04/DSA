@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public long maxSum(int[] nums, int k, int mul) {
         long tot=0;
 
@@ -21,3 +21,26 @@ class Solution {
         return tot;  
     }
 }
+
+*/
+class Solution {
+    public long maxSum(int[] nums, int k, int mul) {
+        Arrays.sort(nums);
+        long tot=0;
+
+        int r=nums.length-1;
+        while(k>0){
+            if(mul>0){
+                tot+= (long) mul*nums[r];
+            }
+            else{
+                tot+=nums[r];
+            }
+            mul--;
+            r--;
+            k--;
+        }
+        return tot;
+    }
+}
+
