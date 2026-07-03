@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Harishkumar-04/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harishkumar-04/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harishkumar-04/DSA/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Harishkumar-04/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harishkumar-04/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Harishkumar-04/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Harishkumar-04/DSA/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3523-make-array-non-decreasing](https://github.com/Harishkumar-04/DSA/tree/master/3523-make-array-non-decreasing) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Harishkumar-04/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
