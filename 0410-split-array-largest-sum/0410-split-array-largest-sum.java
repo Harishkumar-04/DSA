@@ -24,15 +24,15 @@ class Solution {
         return (int) low;
     }
     
-    private int cntSubArr(int[] arr, long limit){
+    private int cntSubArr(int[] nums, long limit){
         int subArr=1;
         long sum=0;
-        for(int i=0;i<arr.length;i++){
-            if(sum+arr[i]<=limit){
-                sum+=arr[i];
+        for(int num:nums){
+            if(sum+num<=limit){
+                sum+=num;
             }
             else{
-                sum=arr[i];
+                sum=num;
                 subArr++;
             }
         }
