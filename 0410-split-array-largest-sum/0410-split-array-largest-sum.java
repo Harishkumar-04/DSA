@@ -26,7 +26,7 @@ class Solution {
     
     private int cntSubArr(int[] nums, int limit){
         int subArr=1;
-        long sum=0;
+        int sum=0;
         for(int num:nums){
             if(sum+num<=limit){
                 sum+=num;
