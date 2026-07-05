@@ -1,16 +1,16 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
         if(k>nums.length) return -1;
-        long max=0,sum=0;
+        int max=0,sum=0;
         for(int num:nums){
             max=Math.max(max,num);
             sum+=num;
         }
         
-        long low=max,high=sum;
+        int low=max,high=sum;
         
         while(low<=high){
-            long mid=low+(high-low)/2;
+            int mid=low+(high-low)/2;
             
             int res=cntSubArr(nums, mid);
             
@@ -21,10 +21,10 @@ class Solution {
                 high=mid-1;
             }
         }
-        return (int) low;
+        return low;
     }
     
-    private int cntSubArr(int[] nums, long limit){
+    private int cntSubArr(int[] nums, int limit){
         int subArr=1;
         long sum=0;
         for(int num:nums){
