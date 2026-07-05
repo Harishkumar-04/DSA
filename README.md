@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Harishkumar-04/DSA/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/Harishkumar-04/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Harishkumar-04/DSA/tree/master/2615-sum-of-distances) |
+| [2643-row-with-maximum-ones](https://github.com/Harishkumar-04/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2895-minimum-processing-time](https://github.com/Harishkumar-04/DSA/tree/master/2895-minimum-processing-time) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Harishkumar-04/DSA/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Harishkumar-04/DSA/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harishkumar-04/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2643-row-with-maximum-ones](https://github.com/Harishkumar-04/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
