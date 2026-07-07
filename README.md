@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harishkumar-04/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harishkumar-04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/Harishkumar-04/DSA/tree/master/3516-find-closest-person) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harishkumar-04/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harishkumar-04/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
