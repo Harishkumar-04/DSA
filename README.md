@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harishkumar-04/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harishkumar-04/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harishkumar-04/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Harishkumar-04/DSA/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Harishkumar-04/DSA/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harishkumar-04/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Harishkumar-04/DSA/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Harishkumar-04/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harishkumar-04/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Harishkumar-04/DSA/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harishkumar-04/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Harishkumar-04/DSA/tree/master/0657-robot-return-to-origin) |
 | [0946-validate-stack-sequences](https://github.com/Harishkumar-04/DSA/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harishkumar-04/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harishkumar-04/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Harishkumar-04/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harishkumar-04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
