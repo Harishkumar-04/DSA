@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Harishkumar-04/DSA/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Harishkumar-04/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harishkumar-04/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harishkumar-04/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Harishkumar-04/DSA/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Harishkumar-04/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Harishkumar-04/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/Harishkumar-04/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harishkumar-04/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harishkumar-04/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Harishkumar-04/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harishkumar-04/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
