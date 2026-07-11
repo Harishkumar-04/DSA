@@ -1,24 +1,21 @@
 class Solution {
     public String resultingString(String s) {
-        Stack<Character> st=new Stack<>();
+        StringBuilder sb=new StringBuilder();
 
         for(char ch:s.toCharArray()){
-            if(!st.isEmpty() && Math.abs(st.peek()-ch)==1){
-                st.pop();
+            int n=sb.length();
+            if(n>0 && Math.abs(sb.charAt(n-1)-ch)==1){
+                sb.deleteCharAt(n-1);
             }
-            else if(!st.isEmpty() && ((st.peek()=='z' && ch=='a') || (st.peek()=='a' && ch=='z'))){
-                st.pop();
+            else if(n>0 && ((sb.charAt(n-1)=='z' && ch=='a') || (sb.charAt(n-1)=='a' && ch=='z'))){
+                sb.deleteCharAt(n-1);
             }
             else{
-                st.push(ch);
+                sb.append(ch);
             }
             
         }
-        StringBuilder sb=new StringBuilder(st.size());        
-
-        while(!st.isEmpty()){
-            sb.append(st.pop());
-        }
-        return sb.reverse().toString();
+    
+        return sb.toString();
     }
 }
