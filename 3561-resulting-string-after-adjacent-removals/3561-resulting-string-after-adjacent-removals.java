@@ -4,18 +4,23 @@ class Solution {
 
         for(char ch:s.toCharArray()){
             int n=sb.length();
-            if(n>0 && Math.abs(sb.charAt(n-1)-ch)==1){
-                sb.deleteCharAt(n-1);
-            }
-            else if(n>0 && ((sb.charAt(n-1)=='z' && ch=='a') || (sb.charAt(n-1)=='a' && ch=='z'))){
-                sb.deleteCharAt(n-1);
+            if(n>0){
+                char prev=sb.charAt(n-1);
+                
+                if(Math.abs(prev-ch)==1){
+                    sb.deleteCharAt(n-1);
+                    }
+                else if((prev=='z' && ch=='a') || (prev=='a' && ch=='z')){
+                    sb.deleteCharAt(n-1);
+                }
+                else{
+                    sb.append(ch);
+                }
             }
             else{
                 sb.append(ch);
             }
-            
         }
-    
         return sb.toString();
     }
 }
