@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Harishkumar-04/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harishkumar-04/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harishkumar-04/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harishkumar-04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harishkumar-04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Harishkumar-04/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harishkumar-04/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harishkumar-04/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harishkumar-04/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harishkumar-04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Harishkumar-04/DSA/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Harishkumar-04/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1331-rank-transform-of-an-array](https://github.com/Harishkumar-04/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harishkumar-04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harishkumar-04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
