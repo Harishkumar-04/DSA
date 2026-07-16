@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Harishkumar-04/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harishkumar-04/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harishkumar-04/DSA/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harishkumar-04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Harishkumar-04/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harishkumar-04/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harishkumar-04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Harishkumar-04/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sliding Window
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Harishkumar-04/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Harishkumar-04/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harishkumar-04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harishkumar-04/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harishkumar-04/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harishkumar-04/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harishkumar-04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/Harishkumar-04/DSA/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Harishkumar-04/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harishkumar-04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -771,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Harishkumar-04/DSA/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harishkumar-04/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harishkumar-04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
 | ------- |
