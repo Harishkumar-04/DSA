@@ -6,9 +6,7 @@ class Solution {
             s=Math.min(s,num);
             l=Math.max(l,num);
         } 
-        int ans=gcd(s,l); 
-        return ans;
-
+        return gcd(s,l); 
     }
     private int gcd(int a, int b){
         while(b>0){
