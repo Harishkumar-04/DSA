@@ -7,7 +7,7 @@ class Solution {
                 if(nums[j]==target){
                     cnt++;
                 }
-                if(cnt>(j-i+1)/2){
+                if(2*cnt>j-i+1){ // cnt>(len/2) => 2*cnt>len [len=j-i+1]
                     ans++;
                 }
             }
