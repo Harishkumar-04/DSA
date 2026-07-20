@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Harishkumar-04/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harishkumar-04/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Harishkumar-04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harishkumar-04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Harishkumar-04/DSA/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Harishkumar-04/DSA/tree/master/0410-split-array-largest-sum) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Harishkumar-04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Harishkumar-04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Harishkumar-04/DSA/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Harishkumar-04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Harishkumar-04/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harishkumar-04/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Harishkumar-04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harishkumar-04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harishkumar-04/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Harishkumar-04/DSA/tree/master/0410-split-array-largest-sum) |
