@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Harishkumar-04/DSA/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Harishkumar-04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/Harishkumar-04/DSA/tree/master/0509-fibonacci-number) |
 | [1395-count-number-of-teams](https://github.com/Harishkumar-04/DSA/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishkumar-04/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harishkumar-04/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Harishkumar-04/DSA/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harishkumar-04/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0509-fibonacci-number](https://github.com/Harishkumar-04/DSA/tree/master/0509-fibonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Harishkumar-04/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harishkumar-04/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Harishkumar-04/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Harishkumar-04/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Harishkumar-04/DSA/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -882,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Harishkumar-04/DSA/tree/master/1472-design-browser-history) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harishkumar-04/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
