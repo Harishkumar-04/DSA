@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishkumar-04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harishkumar-04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harishkumar-04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Harishkumar-04/DSA/tree/master/0860-lemonade-change) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harishkumar-04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harishkumar-04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Harishkumar-04/DSA/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/0905-sort-array-by-parity) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Harishkumar-04/DSA/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harishkumar-04/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0509-fibonacci-number](https://github.com/Harishkumar-04/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harishkumar-04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Harishkumar-04/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harishkumar-04/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
