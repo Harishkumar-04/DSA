@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harishkumar-04/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Harishkumar-04/DSA/tree/master/3467-transform-array-by-parity) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harishkumar-04/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harishkumar-04/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harishkumar-04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Harishkumar-04/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/Harishkumar-04/DSA/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Harishkumar-04/DSA/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harishkumar-04/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/Harishkumar-04/DSA/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harishkumar-04/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Harishkumar-04/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harishkumar-04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harishkumar-04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harishkumar-04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harishkumar-04/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
 | ------- |
