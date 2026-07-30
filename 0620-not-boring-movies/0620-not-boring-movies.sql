@@ -1,3 +1,5 @@
-select * from cinema where not id%2=0 and not description='boring' order by rating desc;
-
--- <> means not equal to
+SELECT id, movie, description, rating
+FROM Cinema
+WHERE description != 'boring'
+    AND id % 2 != 0 
+ORDER BY rating desc; 
