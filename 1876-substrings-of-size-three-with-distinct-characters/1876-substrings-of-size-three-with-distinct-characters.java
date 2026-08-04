@@ -5,11 +5,7 @@ class Solution {
         int cnt=0;
 
         for(int i=0;i<=s.length()-3;i++){
-            StringBuilder sb=new StringBuilder();
-            for(int j=i;j<i+3;j++){
-                sb.append(s.charAt(j));
-            }
-            String str=sb.toString();
+            String str=s.substring(i,i+3);
             if(str.charAt(0)!=str.charAt(1) && str.charAt(0)!=str.charAt(2) && str.charAt(1)!=str.charAt(2)){
                 cnt++;
             }
