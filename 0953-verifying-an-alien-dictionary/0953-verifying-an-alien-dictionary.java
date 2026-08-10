@@ -16,14 +16,14 @@ class Solution {
                 char x=a.charAt(j);
                 char y=b.charAt(j);
                 if(x!=y){
-                    if(freq[a.charAt(j)-'a']>freq[b.charAt(j)-'a']){
+                    if(freq[x-'a']>freq[y-'a']){
                         return false;
                     }
                     break;
                 }
                 j++;
             }
-            if(j==b.length() && j<a.length()) return false;
+            if(j==b.length() && a.length()>b.length()) return false;
 
         }
 
