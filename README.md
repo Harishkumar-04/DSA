@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harishkumar-04/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harishkumar-04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Harishkumar-04/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harishkumar-04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Harishkumar-04/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Harishkumar-04/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harishkumar-04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harishkumar-04/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harishkumar-04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harishkumar-04/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harishkumar-04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Harishkumar-04/DSA/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/Harishkumar-04/DSA/tree/master/3163-string-compression-iii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Harishkumar-04/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
