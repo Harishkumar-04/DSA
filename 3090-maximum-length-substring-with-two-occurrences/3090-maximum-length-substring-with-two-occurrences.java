@@ -8,14 +8,9 @@ class Solution {
         for(int j=0;j<n;j++){
             freq[s.charAt(j)-'a']++;
 
-            boolean check=true;
-            for(int k=0;k<26;k++){
-                if(freq[k]>2){
-                    while(freq[k]>2){
-                        freq[s.charAt(i)-'a']--;
-                        i++;
-                    }
-                }
+            while(freq[s.charAt(j)-'a']>2){
+                freq[s.charAt(i)-'a']--;
+                i++;
             }
             maxLen=Math.max(maxLen,j-i+1);
         }
