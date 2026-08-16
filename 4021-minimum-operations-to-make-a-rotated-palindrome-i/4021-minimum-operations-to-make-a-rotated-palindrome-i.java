@@ -1,23 +1,21 @@
 class Solution {
     public int minOperations(String s) {
-        ArrayList<String> list=new ArrayList<>();
-        list.add(s);
-        for(int i=1;i<s.length();i++){
-            list.add(s.substring(i)+s.substring(0,i));
-        }
 
         int ans=Integer.MAX_VALUE;
-        for(int k=0;k<list.size();k++){
-            String str=list.get(k);
-            int i=0,j=str.length()-1,op=k;
+        for(int k=0;k<s.length() && k<ans;k++){
+            //String str=s.substring(k)+s.substring(0,k);
+            int i=0,j=s.length()-1,op=k;
             while(i<j){
-                int x=str.charAt(i)-'a';
-                int y=str.charAt(j)-'a';
-                op+=Math.min((x-y+26)%26,(y-x+26)%26);
+                int x=s.charAt(i)-'a';
+                int y=s.charAt(j)-'a';
+
+                int d=Math.abs(x-y);
+                op+=Math.min(d,26-d); //op+=Math.min((x-y+26)%26,(y-x+26)%26);
                 i++;
                 j--;
             }
             ans=Math.min(ans,op);
+            s=s.substring(1)+s.charAt(0);
         }
         return ans;
     }
