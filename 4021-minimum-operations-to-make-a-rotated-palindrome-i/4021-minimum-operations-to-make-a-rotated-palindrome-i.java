@@ -8,11 +8,15 @@ class Solution {
             while(i<j){
                 int x=str.charAt(i)-'a';
                 int y=str.charAt(j)-'a';
+
+                //int d=Math.abs(x-y);
+                //op+=Math.min(d,26-d);
                 op+=Math.min((x-y+26)%26,(y-x+26)%26);
                 i++;
                 j--;
             }
             ans=Math.min(ans,op);
+            //s=s.substring(1)+s.charAt(0);
         }
         return ans;
     }
