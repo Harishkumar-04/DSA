@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Harishkumar-04/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harishkumar-04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Harishkumar-04/DSA/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/Harishkumar-04/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harishkumar-04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Harishkumar-04/DSA/tree/master/0860-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/Harishkumar-04/DSA/tree/master/0890-find-and-replace-pattern) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Harishkumar-04/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harishkumar-04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Harishkumar-04/DSA/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Harishkumar-04/DSA/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Harishkumar-04/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harishkumar-04/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Harishkumar-04/DSA/tree/master/0739-daily-temperatures) |
 | [3523-make-array-non-decreasing](https://github.com/Harishkumar-04/DSA/tree/master/3523-make-array-non-decreasing) |
 ## Math
 |  |
