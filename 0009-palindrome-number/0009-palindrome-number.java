@@ -3,16 +3,12 @@ class Solution {
         if(x<0) return false;
         int ans=x;
 
-        int pal=0,cnt=0;
+        int rev=0;
         while(x>0){
             int rem=x%10;
-            pal=cnt*10+rem;
-            cnt=pal;
+            rev=rev*10+rem;
             x/=10;
         }
-        System.out.print(pal);
-        if(pal==ans) return true;
-        
-        return false;
+        return rev==ans;       
     }
 }
