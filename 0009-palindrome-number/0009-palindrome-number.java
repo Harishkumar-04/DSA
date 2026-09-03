@@ -1,10 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0){
-            return false;
+        if(x<0) return false;
+        int ans=x;
+
+        int pal=0,cnt=0;
+        while(x>0){
+            int rem=x%10;
+            pal=cnt*10+rem;
+            cnt=pal;
+            x/=10;
         }
-        StringBuilder sb=new StringBuilder(String.valueOf(x));
-        String res=sb.reverse().toString();
-        return res.equals(String.valueOf(x)) ? true : false;
-    }   
+        System.out.print(pal);
+        if(pal==ans) return true;
+        
+        return false;
+    }
 }
