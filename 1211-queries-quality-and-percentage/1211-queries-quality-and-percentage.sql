@@ -12,3 +12,5 @@ SELECT query_name,
 FROM Queries
 GROUP BY query_name;
 
+-- ROUND(AVG(IF(rating < 3, 100, 0)), 2) AS poor_query_percentage
+
