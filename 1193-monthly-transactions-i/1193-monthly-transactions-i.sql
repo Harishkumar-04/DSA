@@ -4,5 +4,4 @@ sum(if(state='approved',1,0)) as  approved_count,
 sum(amount) as trans_total_amount, 
 sum(if(state='approved',amount,0)) as approved_total_amount 
 from transactions
-group by month, country 
-order by month;
+group by month, country;
