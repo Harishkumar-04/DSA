@@ -4,6 +4,17 @@ GROUP BY customer_id
 HAVING COUNT(DISTINCT product_key)=(
     SELECT COUNT(product_key)
     FROM Product
-)
-ORDER BY customer_id; 
+);
+
+/*
+SELECT c.customer_id
+FROM Customer c
+JOIN Product p
+    ON c.product_key = p.product_key
+GROUP BY c.customer_id
+HAVING COUNT(DISTINCT c.product_key) = (
+    SELECT COUNT(*)
+    FROM Product
+);
+*/
 
