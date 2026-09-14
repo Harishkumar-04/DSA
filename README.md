@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Harishkumar-04/DSA/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Harishkumar-04/DSA/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Harishkumar-04/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/Harishkumar-04/DSA/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Harishkumar-04/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/Harishkumar-04/DSA/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Harishkumar-04/DSA/tree/master/1407-top-travellers) |
