@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Harishkumar-04/DSA/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Harishkumar-04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Harishkumar-04/DSA/tree/master/0413-arithmetic-slices) |
+| [0485-max-consecutive-ones](https://github.com/Harishkumar-04/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Harishkumar-04/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Harishkumar-04/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Harishkumar-04/DSA/tree/master/0506-relative-ranks) |
