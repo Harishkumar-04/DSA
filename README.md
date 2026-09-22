@@ -964,4 +964,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harishkumar-04/DSA/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harishkumar-04/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
