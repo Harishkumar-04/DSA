@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Harishkumar-04/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Harishkumar-04/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Harishkumar-04/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Harishkumar-04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Harishkumar-04/DSA/tree/master/0152-maximum-product-subarray) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Harishkumar-04/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harishkumar-04/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harishkumar-04/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Harishkumar-04/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Harishkumar-04/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Harishkumar-04/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harishkumar-04/DSA/tree/master/0268-missing-number) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harishkumar-04/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Harishkumar-04/DSA/tree/master/0509-fibonacci-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
