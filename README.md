@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harishkumar-04/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Harishkumar-04/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harishkumar-04/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harishkumar-04/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harishkumar-04/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harishkumar-04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harishkumar-04/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harishkumar-04/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harishkumar-04/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Harishkumar-04/DSA/tree/master/1472-design-browser-history) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harishkumar-04/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harishkumar-04/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harishkumar-04/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishkumar-04/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harishkumar-04/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harishkumar-04/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harishkumar-04/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harishkumar-04/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -978,4 +981,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harishkumar-04/DSA/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harishkumar-04/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
