@@ -1,32 +1,33 @@
 class Solution {
     public int minInsertions(String s) {
-        int reqc = 0, reqo = 0;
+        int c=0;
+        int i=0;
 
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
+        for (int j=0;j<s.length();j++) {
+            char ch=s.charAt(j);
 
-            if (ch == '(') {
-                reqc += 2;
+            if(ch=='(') {
+                c+=2;
             } 
-            else {
-                reqc--;
+            else{
+                c--;
 
-                if (reqc < 0) {
-                    reqo++;
-                    reqc = 1;
+                if(c<0){
+                    i++;
+                    c=1;
                 }
 
-                if (i + 1 < s.length() && s.charAt(i + 1) == ')') {
-                    reqc--;
-                    i++;
+                if(j+1<s.length() && s.charAt(j+1)==')'){
+                    c--;
+                    j++;
                 } 
-                else {
-                    reqc--;  // Account for the missing second ')'
-                    reqo++; // Insert the missing ')'
+                else{
+                    c--;
+                    i++;
                 }
             }
         }
 
-        return reqc + reqo;
+        return c+i;
     }
 }
