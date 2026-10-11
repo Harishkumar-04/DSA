@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Harishkumar-04/DSA/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/Harishkumar-04/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harishkumar-04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harishkumar-04/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harishkumar-04/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2895-minimum-processing-time](https://github.com/Harishkumar-04/DSA/tree/master/2895-minimum-processing-time) |
 | [2942-find-words-containing-character](https://github.com/Harishkumar-04/DSA/tree/master/2942-find-words-containing-character) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Harishkumar-04/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Harishkumar-04/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harishkumar-04/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harishkumar-04/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Segment Tree
 |  |
