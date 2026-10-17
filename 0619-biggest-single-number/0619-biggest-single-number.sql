@@ -1,21 +1,9 @@
-select(
-    select num 
-    from mynumbers 
-    group by num 
-    having count(num)=1 
-    order by num desc 
-    limit 1
-    )
-    as num;
-
-/*
-
-select max(num) as num from mynumbers 
-where num in(
-    select num 
-    from mynumbers 
-    group by num 
-    having count(*)=1
-    );
-
-*/
+# Write your MySQL query statement below
+SELECT(
+    SELECT num
+    FROM MyNumbers
+    GROUP BY num
+    HAVING COUNT(num)<2
+    ORDER BY num desc
+    LIMIT 1
+    ) AS num;
