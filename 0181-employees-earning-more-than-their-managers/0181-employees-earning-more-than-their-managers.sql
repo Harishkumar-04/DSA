@@ -1,1 +1,7 @@
-select a.name as employee from employee a join employee b on a.managerid=b.id where a.salary>b.salary;
+# Write your MySQL query statement below
+
+
+select e1.name as employee 
+from employee e1 join employee e2 
+on e1.managerId=e2.id
+where e1.salary>e2.salary;
