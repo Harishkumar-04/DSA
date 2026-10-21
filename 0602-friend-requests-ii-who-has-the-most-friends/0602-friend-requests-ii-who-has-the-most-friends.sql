@@ -1,11 +1,19 @@
-SELECT id, COUNT(id) AS num
-FROM (
-    SELECT requester_id AS id
-    FROM RequestAccepted
-    UNION ALL 
-    SELECT accepter_id AS id 
-    FROM RequestAccepted
-) t
-GROUP BY id
-ORDER BY num DESC
-LIMIT 1;
+# Write your MySQL query statement below
+
+select id, sum(num) as num
+from(
+(select requester_id as id, 
+count(requester_id) as num
+from requestaccepted
+group by requester_id)
+
+union all
+
+(select accepter_id as id, 
+count(accepter_id) as num 
+from requestaccepted
+group by accepter_id)
+) as t
+group by id
+order by num desc
+limit 1;
