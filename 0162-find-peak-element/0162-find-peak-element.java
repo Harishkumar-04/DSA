@@ -3,7 +3,7 @@ class Solution {
 
         int low = 1, high = nums.length - 2;
 
-        if(nums.length==1 || nums == null){
+        if(nums == null || nums.length==1){
             return 0;
         }
 
@@ -20,8 +20,6 @@ class Solution {
                 return mid;
             else if (nums[mid - 1] > nums[mid])
                 high = mid - 1;
-            else if (nums[mid + 1] > nums[mid])
-                low = mid + 1;
             else
                 low = mid + 1;
         }
